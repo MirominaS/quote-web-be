@@ -1,10 +1,10 @@
  /**
-  * @name quotes
+  * @name quote_data
   * @type JSON Object
-    * @description quotes from famous people
+    * @description quote from famous people
     * @author miromina
     */
-export const quotes = [
+export const quote_data = [
     {
         id: 0, 
         tags: ["Success","Motivation","Positivity"],
